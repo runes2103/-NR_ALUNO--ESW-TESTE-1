@@ -38,3 +38,10 @@ public class CalculatorAPI {
         return divisionOperation.execute(Arrays.asList(operands));
     }
 }
+
+/**
+ * @author Rodrigo Miguel Dos Reis Nunes
+ * @version 1.0
+ * @since 2022-06-08
+ */
+
