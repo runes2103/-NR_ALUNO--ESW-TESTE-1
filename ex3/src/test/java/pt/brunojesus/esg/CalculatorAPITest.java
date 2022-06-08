@@ -14,7 +14,9 @@ class CalculatorAPITest {
 
 
     @Test
-    void sum() {
+    void sum()
+    {
+
     }
 
     @Test
