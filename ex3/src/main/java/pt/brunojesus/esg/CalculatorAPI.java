@@ -40,8 +40,10 @@ public class CalculatorAPI {
 }
 
 /**
+ *  <c1>Classe Calculadora</c1>
  * @author Rodrigo Miguel Dos Reis Nunes
  * @version 1.0
  * @since 2022-06-08
+ * Este trabalho relata uma calculadora criada em java
  */
 
